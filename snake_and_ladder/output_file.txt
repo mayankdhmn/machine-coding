@@ -1,0 +1,100 @@
+Mr Mayank rolled a 5and moved from 0 to 5
+Mr Bean rolled a 4and moved from 0 to 4
+Mr Titus Fischer rolled a 5and moved from 0 to 5
+Mr Mayank rolled a 5and moved from 5 to 32
+Mr Bean has got another chance!!!!!
+Mr Bean rolled a 5and moved from 4 to 15
+Mr Titus Fischer rolled a 4and moved from 5 to 9
+Mr Mayank rolled a 4and moved from 32 to 36
+Mr Bean rolled a 2and moved from 15 to 17
+Mr Titus Fischer rolled a 1and moved from 9 to 32
+Mr Mayank rolled a 5and moved from 36 to 20
+Mr Bean has got another chance!!!!!
+Mr Bean rolled a 4and moved from 17 to 46
+Mr Titus Fischer rolled a 3and moved from 32 to 35
+Mr Mayank has got another chance!!!!!
+Mr Mayank rolled a 3and moved from 20 to 29
+Mr Bean rolled a 5and moved from 46 to 68
+Mr Titus Fischer rolled a 4and moved from 35 to 39
+Mr Mayank rolled a 2and moved from 29 to 31
+Mr Bean has got another chance!!!!!
+Mr Bean rolled a 4and moved from 68 to 78
+Mr Titus Fischer rolled a 2and moved from 39 to 20
+Mr Mayank rolled a 2and moved from 31 to 6
+Mr Bean rolled a 5and moved from 78 to 83
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer rolled a 5and moved from 20 to 31
+Mr Mayank rolled a 2and moved from 6 to 8
+Mr Bean rolled a 4and moved from 83 to 87
+Mr Titus Fischer rolled a 4and moved from 31 to 35
+Mr Mayank rolled a 4and moved from 8 to 12
+Mr Bean rolled a 3and moved from 87 to 90
+Mr Titus Fischer rolled a 3and moved from 35 to 38
+Mr Mayank has got another chance!!!!!
+Mr Mayank rolled a 5and moved from 12 to 23
+Mr Bean rolled a 1and moved from 90 to 91
+Mr Titus Fischer rolled a 4and moved from 38 to 42
+Mr Mayank rolled a 4and moved from 23 to 46
+Mr Bean rolled a 1and moved from 91 to 92
+Mr Titus Fischer rolled a 5and moved from 42 to 47
+Mr Mayank has got another chance!!!!!
+Mr Mayank rolled a 3and moved from 46 to 55
+Mr Bean rolled a 5and moved from 92 to 97
+Mr Titus Fischer rolled a 2and moved from 47 to 9
+Mr Mayank rolled a 5and moved from 55 to 60
+Mr Titus Fischer rolled a 3and moved from 9 to 12
+Mr Mayank rolled a 1and moved from 60 to 79
+Mr Bean rolled a 3and moved from 97 to 100
+Mr Bean wins the game
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer rolled a 5and moved from 12 to 29
+Mr Mayank rolled a 2and moved from 79 to 100
+Mr Mayank wins the game
+Mr Titus Fischer rolled a 2and moved from 29 to 31
+Mr Titus Fischer rolled a 4and moved from 31 to 35
+Mr Titus Fischer rolled a 2and moved from 35 to 37
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer has lost his chances!!!
+Mr Titus Fischer rolled a 6and moved from 37 to 43
+Mr Titus Fischer rolled a 2and moved from 43 to 45
+Mr Titus Fischer rolled a 2and moved from 45 to 47
+Mr Titus Fischer rolled a 5and moved from 47 to 52
+Mr Titus Fischer rolled a 1and moved from 52 to 53
+Mr Titus Fischer rolled a 1and moved from 53 to 54
+Mr Titus Fischer rolled a 2and moved from 54 to 53
+Mr Titus Fischer rolled a 2and moved from 53 to 55
+Mr Titus Fischer rolled a 3and moved from 55 to 58
+Mr Titus Fischer rolled a 5and moved from 58 to 63
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer rolled a 3and moved from 63 to 78
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer rolled a 5and moved from 78 to 89
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer rolled a 2and moved from 89 to 97
+Mr Titus Fischer rolled a 1and moved from 97 to 64
+Mr Titus Fischer rolled a 4and moved from 64 to 68
+Mr Titus Fischer rolled a 2and moved from 68 to 70
+Mr Titus Fischer rolled a 5and moved from 70 to 75
+Mr Titus Fischer rolled a 5and moved from 75 to 80
+Mr Titus Fischer rolled a 2and moved from 80 to 82
+Mr Titus Fischer rolled a 3and moved from 82 to 85
+Mr Titus Fischer rolled a 4and moved from 85 to 89
+Mr Titus Fischer rolled a 5and moved from 89 to 94
+Mr Titus Fischer rolled a 4and moved from 94 to 64
+Mr Titus Fischer rolled a 1and moved from 64 to 84
+Mr Titus Fischer rolled a 2and moved from 84 to 86
+Mr Titus Fischer rolled a 1and moved from 86 to 87
+Mr Titus Fischer rolled a 4and moved from 87 to 91
+Mr Titus Fischer rolled a 2and moved from 91 to 73
+Mr Titus Fischer rolled a 5and moved from 73 to 78
+Mr Titus Fischer rolled a 2and moved from 78 to 80
+Mr Titus Fischer rolled a 5and moved from 80 to 85
+Mr Titus Fischer has got another chance!!!!!
+Mr Titus Fischer rolled a 4and moved from 85 to 75
+Mr Titus Fischer rolled a 2and moved from 75 to 77
+Mr Titus Fischer rolled a 3and moved from 77 to 80
+Mr Titus Fischer rolled a 1and moved from 80 to 100
+Mr Titus Fischer wins the game
